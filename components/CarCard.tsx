@@ -82,4 +82,3 @@ const CarCard = ({ car }: CarCardProps) => {
 };
 
 export default CarCard;
-//2:11:49
